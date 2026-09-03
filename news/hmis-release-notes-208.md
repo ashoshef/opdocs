@@ -1,9 +1,8 @@
 ---
-title: "HMIS Release Notes"
+title: "HMIS Release Notes: 207"
 slug: hmis-release-notes
-products: [[Open Path]]
-sections: [[Product Updates/HMIS]]
-tags: [[release-notes, hmis]]
+sections: Product Updates/HMIS
+tags: release-notes, hmis
 status: published
 order: 1
 toc: true
