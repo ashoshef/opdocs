@@ -23,3 +23,5 @@ Broad Search works best when you enter at least a few characters. If the results
 Use Specific Search when you need to narrow results more precisely, especially when multiple clients have similar names. With Specific Search, you can search using first name, last name, Personal ID, Social Security number, and date of birth at the same time.
 
 Use Specific Search when a Broad Search returns too many results or when you want to confirm you have the correct client.
+
+:D 
