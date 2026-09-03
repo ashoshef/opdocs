@@ -4,7 +4,7 @@ slug: warehouse-release-notes
 products: [[Open Path]]
 sections: [[Product Updates/Warehouse]]
 tags: [[release-notes, warehouse]]
-status: draft
+status: published
 order: 2
 toc: true
 ---
