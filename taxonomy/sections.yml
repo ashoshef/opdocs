@@ -1,0 +1,53 @@
+product:
+  name: Open Path
+  slug: open-path
+
+sections:
+  - name: Getting Started
+    slug: getting-started
+    description: Start here if you are new to Open Path and need help finding the right product area.
+
+  - name: Organizations & Projects
+    slug: organizations-projects
+    description: Set up the organizations and projects that structure the HMIS workspace and configure how they behave.
+
+  - name: Administration
+    slug: administration
+    description: Manage access and configure the forms used to collect data in HMIS.
+    children:
+      - name: Users & Access
+        slug: users-roles-access
+        description: Manage user accounts, groups, roles, collections, and access controls.
+      - name: Forms & Assessments
+        slug: forms-assessments
+        description: Build and manage custom forms used to collect assessment and service data.
+
+  - name: HMIS
+    slug: hmis
+    description: Complete day-to-day workflows involving clients, households, enrollments, assessments, and services.
+    children:
+      - name: Clients
+        slug: clients
+        description: Find, create, update, and remove client records.
+      - name: Client Profiles
+        slug: client-profiles
+        description: Manage client photos, files, and alerts.
+      - name: Enrollments
+        slug: enrollments
+        description: Add, update, and remove project enrollments.
+      - name: Households
+        slug: households
+        description: Add household members and manage household structure and relationships.
+      - name: Assessments
+        slug: assessments
+        description: Complete and manage HMIS assessments throughout an enrollment.
+      - name: Services
+        slug: services
+        description: Record services for individual clients or assign them in bulk.
+      - name: Enrollment Activities
+        slug: enrollment-activities
+        description: Manage case notes, current living situations, and enrollment audit history.
+
+  - name: Product Updates
+    slug: product-updates
+    description: Review changes included in Open Path releases.
