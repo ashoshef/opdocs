@@ -1,7 +1,7 @@
 ---
 title: "Release Notes"
 slug: release-notes
-status: draft
+status: published
 order: 1
 ---
 
