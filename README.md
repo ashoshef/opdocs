@@ -26,3 +26,5 @@ Only article Markdown lives below `docs/articles`, so section metadata and proje
 3. Merge to the branch connected to WebberZone.
 4. Let the GitHub webhook update WordPress.
 5. Treat GitHub as the source of truth; avoid editing synchronized article content directly in WordPress.
+
+:) 
